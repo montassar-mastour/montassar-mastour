@@ -9,11 +9,11 @@
 
 ### 🧠 About Me  
 
-👋 Hi, I’m **Montassar**, an **AI Engineer from Tunisia** passionate about curiosity and creativity.  
+👋 Hi, I’m **Montassar**, an **AI Engineer from Tunisia** fueled by curiosity and creativity.  
 
-My work spans **Data Science**, **Machine Learning**, and **Generative AI**, applied to real-world challenges in **climate**, **industry**, and **XR**.  
+My work spans **Data Science**, **Machine Learning**, and **Generative AI**, applied to real-world challenges.  
 
-I love collaborating on projects that combine **research, innovation, and tangible impact**.
+I love collaborating on projects that combine **research, innovation, and meaningful impact**.
 
 
 🌐 *Want to know more about me and my work? Visit my website:* [montassar-mastour.com](https://mastourm.onrender.com/)
