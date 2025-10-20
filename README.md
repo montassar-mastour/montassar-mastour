@@ -39,7 +39,7 @@ I’m open to **collaboration or partnerships** in:
 ---
 
 ### 🏆 Certifications  
-🧠 [Oracle Cloud Infrastructure Generative AI Professional (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7AC430F41081AB60C23E2BA70811C092596AB20B1C0C7299673AE23B8676E8D) 
+🧠 [Oracle Cloud Infrastructure Generative AI Professional (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7AC430F41081AB60C23E2BA70811C092596AB20B1C0C7299673AE23B8676E8D) &nbsp; 
 🎨 [Generative AI with Diffusion Models — NVIDIA](https://learn.nvidia.com/certificates?id=u0u53FtbTOaySe-41wW0tg) &nbsp;  &nbsp;  
 🔍 [Building RAG Agents with LLMs — NVIDIA](https://learn.nvidia.com/certificates?id=bvkwrjCMT9CA-Hf8Jv-kPg) &nbsp;  &nbsp;  
 🗣 [Transformer-Based NLP Applications — NVIDIA](https://learn.nvidia.com/certificates?id=jjgiAqGUQMib6_zJrM6psA) &nbsp; &nbsp;  
