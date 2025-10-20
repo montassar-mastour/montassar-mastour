@@ -1,28 +1,88 @@
 <h1 align="center">Hi 👋, I'm Montassar Mastour</h1>
-<h3 align="center">AI Engineer | Researcher | Innovator </h3>
+<h3 align="center">AI Engineer · Researcher · Innovator</h3>
 
-- 🧠 About Me **👋 Hi, I’m Montassar — an AI Engineer from Tunisia driven by curiosity and creativity. Passionate about designing intelligent systems that make the world smarter. I explore the intersection of Machine Learning, Generative AI, and Graph Neural Networks to solve real-world problems in climate, industry, and XR. Always seeking collaborations that merge research, innovation, and impact.**
+---
 
-- 💼 I’m currently working on **Generative AI & Diffusion Models | LangChain & Retrieval-Augmented Generation (RAG) | MLOps & Cloud AI (GCP)**
+### 🧠 About Me  
+👋 I’m **Montassar**, an **AI Engineer from Tunisia** driven by curiosity and creativity.  
+I’m passionate about designing **intelligent systems** that make the world smarter.  
+My work focuses on **Machine Learning**, **Generative AI**, and **Graph Neural Networks (GNNs)** — applying them to real-world challenges in **climate**, **industry**, and **XR**.  
+I’m always eager to collaborate on projects that combine **research, innovation, and impact**.  
 
-- 🚀 Seeking Collaborators in AI & Industry Applications 🚀 **🏭 Digital Transformation for Industries | 🧠 Generative AI and Large Language Models (LLMs) | 📊 Process Optimization & Predictive Analytics | ⚙️ Automation and AI-Driven Decision Support**
+---
 
-- 🏆 Certifications **🧠 Oracle Cloud Infrastructure Generative AI Professional (2025) | 🎨 Generative AI with Diffusion Models — NVIDIA | 🔍 Building RAG Agents with LLMs — NVIDIA | 🗣 Transformer-Based NLP Applications — NVIDIA | ⚙️ Predictive Maintenance with AI — NVIDIA | 🌐 XR Foundation Bootcamp - XR Bootcamp, San Francisco**
+### 💼 What I’m Focused On  
+- 🤖 **Generative AI & Diffusion Models**  
+- 🔍 **LangChain & Retrieval-Augmented Generation (RAG)**  
+- ☁️ **MLOps & Cloud AI (GCP)**  
 
-- 📝 I have published an article on [Article](https://ieeexplore.ieee.org/document/10639013/)
+---
 
-- 📫 How to reach me **mastourmontassar@gmail.com**
+### 🚀 Seeking Collaborators in AI & Industry Applications  
+I’m open to **collaboration or partnerships** in:  
+- 🏭 Digital Transformation for Industries  
+- 🧠 Generative AI and Large Language Models (LLMs)  
+- 📊 Process Optimization & Predictive Analytics  
+- ⚙️ Automation and AI-Driven Decision Support  
 
-- 📄 Know about my experiences in  [Resume](https://drive.google.com/file/d/1vPSVUgzhr6iWqn9L4TJHLPGJH6Q5N0uX/view?usp=sharing)
+📩 *Let’s connect and explore impactful AI solutions together!*  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🏆 Certifications  
+🧠 Oracle Cloud Infrastructure Generative AI Professional (2025)  
+🎨 Generative AI with Diffusion Models — NVIDIA  
+🔍 Building RAG Agents with LLMs — NVIDIA  
+🗣 Transformer-Based NLP Applications — NVIDIA  
+⚙️ Predictive Maintenance with AI — NVIDIA  
+🌐 XR Foundation Bootcamp — XR Bootcamp, San Francisco  
+
+---
+
+### 📝 Published Work  
+📘 *Bag-of-Visual-Words Feature Extraction using Graph Convolutional Networks*  
+Published at **IEEE ATSIP 2024**  
+🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10639013/)  
+
+---
+
+### 📫 Get in Touch  
+📧 **[mastourmontassar@gmail.com](mailto:mastourmontassar@gmail.com)**  
+📄 [View My Resume](https://drive.google.com/file/d/1vPSVUgzhr6iWqn9L4TJHLPGJH6Q5N0uX/view?usp=sharing)  
+
+---
+
+### 🌐 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mastourmontassar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mastourmontassar/" height="30" width="40" /></a>
-<a href="https://fb.com/www.facebook.com/mastourmontassar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/mastourmontassar" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/montassar_mastour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/montassar_mastour/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mastourmontassar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://facebook.com/mastourmontassar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/montassar_mastour" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mastour-montassar&show_icons=true&locale=en&layout=compact" alt="mastour-montassar" /></p>
+### 🧰 Languages & Tools  
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mastour-montassar&show_icons=true&locale=en&layout=compact" alt="mastour-montassar" />
+</p>
