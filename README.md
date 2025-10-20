@@ -106,7 +106,7 @@ Published at **IEEE ATSIP 2024**
 
 
 <p>
-  <img align="left" 
+  <img align="right" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=montassar-mastour" 
        alt="montassar-mastour" />
 </p>
