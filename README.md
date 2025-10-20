@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Montassar Mastour</h1>
 <h3 align="center">AI Engineer · Researcher · Innovator</h3>
 
----
+![Banner Image](https://t3.ftcdn.net/jpg/02/06/09/86/360_F_206098620_L3S5vp0F2PLdNyynpWppKKS2WgbHPVSa.webp)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=montassar-mastour&label=Profile%20views&color=0e75b6&style=flat" alt="montassar-mastour" />
 </p>
