@@ -98,17 +98,12 @@ Published at **IEEE ATSIP 2024**
 ---
 
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" />
-</p>
-<!-- GitHub Stats -->
-<p>&nbsp;
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=montassar-mastour&show_icons=true&locale=en" 
-       alt="montassar-mastour" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=montassar-mastour&show_icons=true&locale=en" alt="montassar-mastour" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" width="49%" />
 </p>
 
-<!-- GitHub Streak Stats -->
+
 <p>
   <img align="center" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=montassar-mastour" 
