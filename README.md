@@ -61,7 +61,7 @@ Published at **IEEE ATSIP 2024**
 
 ### 📫 Get in Touch  
 📧 **[mastourmontassar@gmail.com](mailto:mastourmontassar@gmail.com)**  
-📄 [View My Resume](https://drive.google.com/file/d/1vPSVUgzhr6iWqn9L4TJHLPGJH6Q5N0uX/view?usp=sharing)  
+📄 [View My Resume]()  
 
 ---
 
