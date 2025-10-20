@@ -2,6 +2,10 @@
 <h3 align="center">AI Engineer · Researcher · Innovator</h3>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=montassar-mastour&label=Profile%20views&color=0e75b6&style=flat" alt="montassar-mastour" />
+</p>
+
 
 ### 🧠 About Me  
 👋 I’m **Montassar**, an **AI Engineer from Tunisia** driven by curiosity and creativity.  
@@ -91,4 +95,17 @@ Published at **IEEE ATSIP 2024**
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" />
+</p>
+<!-- GitHub Stats -->
+<p>&nbsp;
+  <img align="center" 
+       src="https://github-readme-stats.vercel.app/api?username=montassar-mastour&show_icons=true&locale=en" 
+       alt="montassar-mastour" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p>
+  <img align="center" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=montassar-mastour" 
+       alt="montassar-mastour" />
 </p>
