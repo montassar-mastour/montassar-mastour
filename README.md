@@ -98,7 +98,7 @@ Published at **IEEE ATSIP 2024**
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" />
 </p>
 <!-- GitHub Stats -->
