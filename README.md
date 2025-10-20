@@ -100,7 +100,7 @@ Published at **IEEE ATSIP 2024**
 ### 📊 GitHub Stats  
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=montassar-mastour&show_icons=true&locale=en&layout=compact" alt="montassar-mastour" width="37%" />
   <img src="https://github-readme-stats.vercel.app/api?username=montassar-mastour&show_icons=true&locale=en" alt="montassar-mastour" width="49%" />
 </p>
 
