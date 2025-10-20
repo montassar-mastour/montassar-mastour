@@ -104,9 +104,3 @@ Published at **IEEE ATSIP 2024**
   <img src="https://github-readme-stats.vercel.app/api?username=montassar-mastour&show_icons=true&locale=en" alt="montassar-mastour" width="49%" />
 </p>
 
-
-<p>
-  <img align="center" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=montassar-mastour" 
-       alt="montassar-mastour" />
-</p>
