@@ -5,7 +5,7 @@
 
 ### 🧠 About Me  
 👋 I’m **Montassar**, an **AI Engineer from Tunisia** driven by curiosity and creativity.  
-My work focuses on **Machine Learning** and **Generative AI** 
+My work focuses on **Data Science**, **Machine Learning** and **Generative AI** 
 Applying them to real-world challenges in **climate**, **industry**, and **XR**.  
 I’m always eager to collaborate on projects that combine **research, innovation, and impact**.  
 
