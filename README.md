@@ -8,10 +8,13 @@
 
 
 ### 🧠 About Me  
-👋 I’m **Montassar**, an **AI Engineer from Tunisia** driven by curiosity and creativity.  
-My work focuses on **Data Science**, **Machine Learning** and **Generative AI**. &nbsp; | &nbsp; 
-Applying them to real-world challenges in **climate**, **industry**, and **XR**.  
-I’m always eager to collaborate on projects that combine **research, innovation, and impact**.  
+
+👋 Hi, I’m **Montassar**, an **AI Engineer from Tunisia** passionate about curiosity and creativity.  
+
+My work spans **Data Science**, **Machine Learning**, and **Generative AI**, applied to real-world challenges in **climate**, **industry**, and **XR**.  
+
+I love collaborating on projects that combine **research, innovation, and tangible impact**.
+
 
 🌐 *Want to know more about me and my work? Visit my website:* [montassar-mastour.com](https://mastourm.onrender.com/)
 
@@ -36,12 +39,13 @@ I’m open to **collaboration or partnerships** in:
 ---
 
 ### 🏆 Certifications  
-🧠 [Oracle Cloud Infrastructure Generative AI Professional (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7AC430F41081AB60C23E2BA70811C092596AB20B1C0C7299673AE23B8676E8D) &nbsp; | &nbsp; 
-🎨 [Generative AI with Diffusion Models — NVIDIA](https://learn.nvidia.com/certificates?id=u0u53FtbTOaySe-41wW0tg) &nbsp; | &nbsp; 
+🧠 [Oracle Cloud Infrastructure Generative AI Professional (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F7AC430F41081AB60C23E2BA70811C092596AB20B1C0C7299673AE23B8676E8D) &nbsp; | &nbsp;  
+🎨 [Generative AI with Diffusion Models — NVIDIA](https://learn.nvidia.com/certificates?id=u0u53FtbTOaySe-41wW0tg) &nbsp; | &nbsp;  
 🔍 [Building RAG Agents with LLMs — NVIDIA](https://learn.nvidia.com/certificates?id=bvkwrjCMT9CA-Hf8Jv-kPg) &nbsp; | &nbsp;  
 🗣 [Transformer-Based NLP Applications — NVIDIA](https://learn.nvidia.com/certificates?id=jjgiAqGUQMib6_zJrM6psA) &nbsp; | &nbsp;  
 ⚙️ [Predictive Maintenance with AI — NVIDIA](https://learn.nvidia.com/certificates?id=ZwNaqKldS8CHPFT03sP3Sg) &nbsp; | &nbsp;  
 🌐 [XR Foundation Bootcamp — XR Bootcamp, San Francisco](https://academy.xrbootcamp.com/certificates/wwuqmcnyjk)
+
 
 
 ---
